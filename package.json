@@ -1,7 +1,7 @@
 {
-  "name": "The Unblockd Hub",
+  "name": "nobody",
   "version": "1.2.1",
-  "description": "site-theunblockedhubofficial.koyab.app",
+  "description": "nobody.cyclic.app",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
